@@ -12,5 +12,5 @@ int main()
     printf("Dame caracteres: ");
     scanf("%s", palabra);
     printf("%s", palabra);
-
+;
 }
